@@ -1,0 +1,37 @@
+*{
+background-color: black;
+margin: 0;
+padding: 0;
+}
+
+.footer{
+    color: aliceblue;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin-inline: 352px;
+    font-size: 29px;
+    
+    
+}
+
+.hr{
+    color: #781711;
+    height: 11px;
+    margin-bottom: 63px;
+    
+}
+
+.bottomimg{
+    margin-top: 33px;
+    margin-left: 69px;
+    height: 55px;
+    width: 352px;
+   
+}
+
+.number{
+    color: aliceblue;
+   
+    
+}
